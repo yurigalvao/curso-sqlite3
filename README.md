@@ -1,0 +1,1 @@
+Inicio do Curso de sqlite3
